@@ -4,6 +4,8 @@ IEAttrWorkaround
 Workaround for the IE bug found here: 
 http://stackoverflow.com/questions/26268129/css-rules-involving-the-value-of-data-in-ancestors-not-working-well-with-ie-wh
 
+The bug has been reported to the Internet Explorer team and hopefully, they will patch it in the not so distand future, but in the meantime...
+
 How To Use
 ==========
 
